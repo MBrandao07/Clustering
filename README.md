@@ -1,5 +1,5 @@
 # Machine-Learning
-## Projetos e suas descrições neste repositório: 
+## Projetos neste repositório e suas descrições: 
 
 - O relatório de Clustering de Cartões de Crédito agrupa diferentes clientes de cartão de crédito utilizando o método de Clustering, que é uma ténica de Machine Learning Não Supervisioanda, onde os clientes são agrupados de acordo com suas características.
 
